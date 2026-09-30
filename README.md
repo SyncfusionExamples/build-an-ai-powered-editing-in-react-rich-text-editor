@@ -67,4 +67,4 @@ http://localhost:3000/api/stream
 ```
 
 ### How to run this application?
-To run this application, you need to clone the `build-ai-powered-editing-in-react-with-syncfusion-rte` repository and then open it in Visual Studio Code. Now, simply install all the necessary React packages into your current project using the `npm install` command and run your project using the `npm start` command.
+To run this application, you need to clone the `build-ai-powered-editing-in-react-rich-text-editor` repository and then open it in Visual Studio Code. Now, simply install all the necessary React packages into your current project using the `npm install` command and run your project using the `npm start` command.
